@@ -1,0 +1,9 @@
+title = "Sudoku: The Puzzle Game Collection"
+description = "Developed and published by Hudson, Sudoku: The Puzzle Game Collection contains 600 puzzle games (Sudoku, Shikaku, Akari, Hashi) in varying levels of difficulty, with hints being provided either by spending Play Coins or by completing other puzzles."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000043400"
+region = "eur"
+release_date = "2011-09-06"
